@@ -9,3 +9,7 @@ i += 1
  new
 end
 
+def reduce 
+  
+end
+
