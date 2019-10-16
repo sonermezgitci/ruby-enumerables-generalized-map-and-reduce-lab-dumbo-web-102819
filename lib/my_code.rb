@@ -9,7 +9,7 @@ i += 1
  new
 end
 
-def reduce 
+def reduce(array)
   
 end
 
