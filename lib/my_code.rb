@@ -3,7 +3,7 @@ def map (array)
   i = 0
   while i < array.lenght
 
-yield(array[i])
+new.push(yield(array[i]))
 
 end
 end
